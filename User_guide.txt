@@ -1,0 +1,15 @@
+Main aim of this project is to extract the titles, prices and image urls from e-commerce websites. 
+
+Python file (Final_independent_study_9_title+price+images_urls.ipynb) is divided into multiple functions. You need to run all the python cells in order to extract the titles, prices and images urls. 
+
+Follow the steps mentioned below:
+Step 1) Download file ads_w_title_url_price_image_des.csv 
+Step 2) preprocess_data function contains file1 input variable. Give the path of Downloaded ads_w_title_url_price_image_des.csv file
+Step 3) Run all the cells to get the output
+Step 4) Check the output of function title_price_urls_df by using print function. You will get the titles, prices and image urls.
+Step 5) If you want to extract information from different websites then go to predict_titles function. Copy url from e-commerce website by searching a product name
+	and input url link to predict_titles function. There is a predefined url variable, you need to change the exiting url link with the one you copied.
+	Run all the code starting from this cell. 
+	Go back to function title_price_urls_df to get the extracted titles, prices and image urls. 
+Step 6) I have tested this on various websites and those websites are written in ##  Test Websites section
+
