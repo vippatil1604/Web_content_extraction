@@ -1,0 +1,4 @@
+Variety of different ML and DL algorithms were tried for this project.
+Initially I started with classical ML algorithms and clutering method and the final method used was LSTM. 
+
+Final model gave an accuracy of 87% on the test dataset and 91% accuracy on the training dataset. 
