@@ -1,4 +1,3 @@
-Variety of different ML and DL algorithms were tried for this project.
-Initially I started with classical ML algorithms and clutering method and the final method used was LSTM. 
 
-Final model gave an accuracy of 87% on the test dataset and 91% accuracy on the training dataset. 
+
+The model that is in the ipynb file is the final model used and that model gave an accuracy of 91% on the training dataset and 87% on the test dataset. 
