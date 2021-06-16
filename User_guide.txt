@@ -13,6 +13,7 @@ Step 5) If you want to extract information from different websites then go to pr
 	Go back to function title_price_urls_df to get the extracted titles, prices and image urls. 
 Step 6) I have tested this on various websites and those websites are written in ##  Test Websites section
 
+
 ## Tested websites
 #url = 'https://picclick.com/Crafts/Wholesale-Lots/?q=apple'
 #url = 'https://picclick.com/Crafts/Wholesale-Lots/?q=mobile'
