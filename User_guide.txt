@@ -14,7 +14,6 @@ Step 5) If you want to extract information from different websites then go to pr
 Step 6) I have tested this on various websites and those websites are written in ##  Test Websites section
 
 ## Tested websites
-### Everythings perfect
 #url = 'https://picclick.com/Crafts/Wholesale-Lots/?q=apple'
 #url = 'https://picclick.com/Crafts/Wholesale-Lots/?q=mobile'
 #url = 'https://picclick.com/?q=python+skeleton'  #- perfect extraction
