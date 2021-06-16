@@ -46,13 +46,11 @@ Step 6) I have tested this on various websites and those websites are written in
 #url = 'https://www.boneroom.com/apps/search?q=bones'
 #url = 'https://www.boneroom.com/apps/search?q=python+meat'
 #url = 'https://www.boneroom.com/store/c213/Everyday_Fossils.html'
-
 #url = 'http://www.implora.com/gifts.asp?kul=1&kat=1'
 #url = 'http://www.implora.com/gifts.asp?kul=1&kat=21&'  
 #url = 'http://www.implora.com/searchresult.asp?searchimp=taxidermy&submit=Search'
 #url = 'http://www.implora.com/gifts.asp?kul=1&kat=32'
 #url = 'http://www.implora.com/gifts.asp?kul=3&kat=1'  #- perfect extraction
-
 #url = 'https://www.glacierwear.com/catalogsearch/result/index/?limit=24&&q=python+hide'  
 #url = 'https://www.glacierwear.com/catalogsearch/result/index/?&q=fur+plate+blanket'
 #url = 'https://www.glacierwear.com/catalogsearch/result/index/?infinite=true&limit=8&&q=python+hide'
